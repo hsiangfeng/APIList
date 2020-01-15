@@ -57,6 +57,7 @@
 - [故宮 OPEN DATA](http://210.69.170.105/popendata/APP_Prog/cht/overview_cht.aspx)
 - [i運動資訊平台 open data](https://isports.sa.gov.tw/Api/Rest/v1/openData.html#/)
 - [全國運動場館資訊網-iPlay](https://iplay.sa.gov.tw/WebAPI)
+- [氣象局資料開放平台](https://opendata.cwb.gov.tw/index)
 
 ### 儲存庫
 
