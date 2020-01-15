@@ -12,6 +12,8 @@
 
 - [NYT's APIs](https://developer.nytimes.com/apis)
 - [News API](https://newsapi.org/)
+- [GNews API](https://gnews.io/)
+- [Chronicling America API](https://chroniclingamerica.loc.gov/about/api/)
 
 ### 影音類
 
@@ -19,6 +21,7 @@
 - [Youtube Data API](https://developers.google.com/youtube/v3)
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [Giphy API](https://developers.giphy.com/)
+- [Vimeo API](https://developer.vimeo.com/api/guides/start)
 
 ### 社群類
 
@@ -35,6 +38,9 @@
 - [Unsplash API](https://unsplash.com/developers)
 - [Random User Generator](https://randomuser.me/photos)
 - [Imgur API](https://apidocs.imgur.com/?version=latest)
+- [Getty Images API](https://developers.gettyimages.com/api/)
+- [Bing 影像搜尋 API](https://azure.microsoft.com/zh-tw/services/cognitive-services/bing-image-search-api/)
+- [Flickr API](https://www.flickr.com/services/api/)
 
 ### 生活類
 
@@ -46,6 +52,11 @@
 - [行政院環境保護署環境資源資料開放平台](https://opendata.epa.gov.tw/)
 - [政府資料開放平臺](https://data.gov.tw/)
 - [高雄市政府資料開放](https://data.kcg.gov.tw/)
+- [Open Data Taipei](https://data.taipei/#/)
+- [內政資料開放平臺](https://data.moi.gov.tw/MoiOD/System/Principle.aspx?Sample=2)
+- [故宮 OPEN DATA](http://210.69.170.105/popendata/APP_Prog/cht/overview_cht.aspx)
+- [i運動資訊平台 open data](https://isports.sa.gov.tw/Api/Rest/v1/openData.html#/)
+- [全國運動場館資訊網-iPlay](https://iplay.sa.gov.tw/WebAPI)
 
 ### 儲存庫
 
@@ -57,6 +68,7 @@
 
 - [六角學院 Vue 課程 API](https://vue-course-api.hexschool.io/)
 - [Top 50 Most Popular APIs on RapidAPI (2019)](https://rapidapi.com/blog/most-popular-api/)
+- [APIList](https://apilist.fun/)
 
 ### 最後
 
