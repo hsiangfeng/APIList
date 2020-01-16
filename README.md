@@ -32,6 +32,7 @@
 - [Plurk API](https://kantai235.github.io/Plurk-API-Docs/build/#plurk-api-2-0)
 - [Discord官方API](https://support.discordapp.com/hc/zh-tw/articles/212889058-Discord%E5%AE%98%E6%96%B9API)
 - [Slack API](https://api.slack.com/)
+- [LINE API](https://developers.line.biz/zh-hant/docs/messaging-api/overview/)
 
 ### 圖片類
 
