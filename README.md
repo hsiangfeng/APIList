@@ -40,6 +40,7 @@
 - [Unsplash API](https://unsplash.com/developers)
 - [Random User Generator](https://randomuser.me/photos)
 - [Imgur API](https://apidocs.imgur.com/?version=latest)
+- [Giphy API](https://developers.giphy.com)
 - [Getty Images API](https://developers.gettyimages.com/api/)
 - [Bing 影像搜尋 API](https://azure.microsoft.com/zh-tw/services/cognitive-services/bing-image-search-api/)
 - [Flickr API](https://www.flickr.com/services/api/)
