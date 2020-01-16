@@ -70,6 +70,7 @@
 - [六角學院 Vue 課程 API](https://vue-course-api.hexschool.io/)
 - [Top 50 Most Popular APIs on RapidAPI (2019)](https://rapidapi.com/blog/most-popular-api/)
 - [APIList](https://apilist.fun/)
+- [Public-APIs](https://github.com/n0shake/Public-APIs)
 
 ### 最後
 
