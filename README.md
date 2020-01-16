@@ -33,6 +33,7 @@
 - [Discord官方API](https://support.discordapp.com/hc/zh-tw/articles/212889058-Discord%E5%AE%98%E6%96%B9API)
 - [Slack API](https://api.slack.com/)
 - [LINE API](https://developers.line.biz/zh-hant/docs/messaging-api/overview/)
+- [Telegram API](https://core.telegram.org/)
 
 ### 圖片類
 
