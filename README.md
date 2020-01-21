@@ -34,6 +34,7 @@
 - [Slack API](https://api.slack.com/)
 - [LINE API](https://developers.line.biz/zh-hant/docs/messaging-api/overview/)
 - [Telegram API](https://core.telegram.org/)
+- [Facebbok messenger API](https://developers.facebook.com/docs/messenger-platform/introduction)
 
 ### 圖片類
 
@@ -73,7 +74,7 @@
 - [Top 50 Most Popular APIs on RapidAPI (2019)](https://rapidapi.com/blog/most-popular-api/)
 - [APIList](https://apilist.fun/)
 - [Public-APIs](https://github.com/n0shake/Public-APIs)
-
+- [ngrok client API](https://ngrok.com/docs#client-api)
 ### 最後
 
 最後的最後這邊，如果以上 API 你都沒有一個喜歡的，你也可以考慮自己架一個 [JSON Server](https://github.com/typicode/json-server) 來練習，如果不清楚該如何架設，你也可以參考六角學院的 [json-server - 讓你不會後端也能開 API](https://www.youtube.com/watch?v=9TAanXxNvEI) 影音。
