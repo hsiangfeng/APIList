@@ -33,8 +33,6 @@
 - [Discord官方API](https://support.discordapp.com/hc/zh-tw/articles/212889058-Discord%E5%AE%98%E6%96%B9API)
 - [Slack API](https://api.slack.com/)
 - [LINE API](https://developers.line.biz/zh-hant/docs/messaging-api/overview/)
-    - [LINE Notify](https://notify-bot.line.me/doc/en/)
-    - [LINE Login](https://developers.line.biz/en/docs/line-login/web/integrate-line-login/)
 - [Telegram API](https://core.telegram.org/)
 - [Facebbok messenger API](https://developers.facebook.com/docs/messenger-platform/introduction)
 
