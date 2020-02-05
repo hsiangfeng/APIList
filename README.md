@@ -22,6 +22,7 @@
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [Giphy API](https://developers.giphy.com/)
 - [Vimeo API](https://developer.vimeo.com/api/guides/start)
+- [OMDb API](http://www.omdbapi.com/)
 
 ### 社群類
 
@@ -61,6 +62,7 @@
 - [i運動資訊平台 open data](https://isports.sa.gov.tw/Api/Rest/v1/openData.html#/)
 - [全國運動場館資訊網-iPlay](https://iplay.sa.gov.tw/WebAPI)
 - [氣象局資料開放平台](https://opendata.cwb.gov.tw/index)
+- [Weather API](https://openweathermap.org/api)
 
 ### 儲存庫
 
