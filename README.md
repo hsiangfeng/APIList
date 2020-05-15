@@ -45,6 +45,7 @@
 - [Getty Images API](https://developers.gettyimages.com/api/)
 - [Bing 影像搜尋 API](https://azure.microsoft.com/zh-tw/services/cognitive-services/bing-image-search-api/)
 - [Flickr API](https://www.flickr.com/services/api/)
+- [Pixabay API](https://pixabay.com/api/docs/)
 
 ### 生活類
 
