@@ -60,6 +60,7 @@
 - [i運動資訊平台 open data](https://isports.sa.gov.tw/Api/Rest/v1/openData.html#/)
 - [全國運動場館資訊網-iPlay](https://iplay.sa.gov.tw/WebAPI)
 - [氣象局資料開放平台](https://opendata.cwb.gov.tw/index)
+- [Skyscanner Flight Search](https://rapidapi.com/skyscanner/api/skyscanner-flight-search)
 
 ### 儲存庫
 
