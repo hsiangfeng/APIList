@@ -31,7 +31,7 @@
 - [Twitch API](https://dev.twitch.tv/docs)
 - [Instagram API](https://www.instagram.com/developer/)
 - [Plurk API](https://kantai235.github.io/Plurk-API-Docs/build/#plurk-api-2-0)
-- [Discord官方API](https://support.discordapp.com/hc/zh-tw/articles/212889058-Discord%E5%AE%98%E6%96%B9API)
+- [Discord API](https://support.discordapp.com/hc/zh-tw/articles/212889058-Discord%E5%AE%98%E6%96%B9API)
 - [Slack API](https://api.slack.com/)
 - [LINE API](https://developers.line.biz/zh-hant/docs/messaging-api/overview/)
 - [Telegram API](https://core.telegram.org/)
@@ -64,6 +64,8 @@
 - [全國運動場館資訊網-iPlay](https://iplay.sa.gov.tw/WebAPI)
 - [氣象局資料開放平台](https://opendata.cwb.gov.tw/index)
 - [Weather API](https://openweathermap.org/api)
+- [Skyscanner Flight Search](https://rapidapi.com/skyscanner/api/skyscanner-flight-search)
+
 
 ### 儲存庫
 
