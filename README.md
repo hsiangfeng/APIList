@@ -22,6 +22,7 @@
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [Giphy API](https://developers.giphy.com/)
 - [Vimeo API](https://developer.vimeo.com/api/guides/start)
+- [OMDb API](http://www.omdbapi.com/)
 
 ### 社群類
 
@@ -30,10 +31,11 @@
 - [Twitch API](https://dev.twitch.tv/docs)
 - [Instagram API](https://www.instagram.com/developer/)
 - [Plurk API](https://kantai235.github.io/Plurk-API-Docs/build/#plurk-api-2-0)
-- [Discord官方API](https://support.discordapp.com/hc/zh-tw/articles/212889058-Discord%E5%AE%98%E6%96%B9API)
+- [Discord API](https://support.discordapp.com/hc/zh-tw/articles/212889058-Discord%E5%AE%98%E6%96%B9API)
 - [Slack API](https://api.slack.com/)
 - [LINE API](https://developers.line.biz/zh-hant/docs/messaging-api/overview/)
 - [Telegram API](https://core.telegram.org/)
+- [Facebbok messenger API](https://developers.facebook.com/docs/messenger-platform/introduction)
 
 ### 圖片類
 
@@ -43,6 +45,7 @@
 - [Getty Images API](https://developers.gettyimages.com/api/)
 - [Bing 影像搜尋 API](https://azure.microsoft.com/zh-tw/services/cognitive-services/bing-image-search-api/)
 - [Flickr API](https://www.flickr.com/services/api/)
+- [Pixabay API](https://pixabay.com/api/docs/)
 
 ### 生活類
 
@@ -60,7 +63,9 @@
 - [i運動資訊平台 open data](https://isports.sa.gov.tw/Api/Rest/v1/openData.html#/)
 - [全國運動場館資訊網-iPlay](https://iplay.sa.gov.tw/WebAPI)
 - [氣象局資料開放平台](https://opendata.cwb.gov.tw/index)
+- [Weather API](https://openweathermap.org/api)
 - [Skyscanner Flight Search](https://rapidapi.com/skyscanner/api/skyscanner-flight-search)
+
 
 ### 儲存庫
 
@@ -74,6 +79,8 @@
 - [Top 50 Most Popular APIs on RapidAPI (2019)](https://rapidapi.com/blog/most-popular-api/)
 - [APIList](https://apilist.fun/)
 - [Public-APIs](https://github.com/n0shake/Public-APIs)
+- [ngrok client API](https://ngrok.com/docs#client-api)
+- [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)
 
 ### 最後
 
