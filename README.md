@@ -23,6 +23,7 @@
 - [Giphy API](https://developers.giphy.com/)
 - [Vimeo API](https://developer.vimeo.com/api/guides/start)
 - [OMDb API](http://www.omdbapi.com/)
+- [Twitch API](https://dev.twitch.tv/docs)
 
 ### 社群類
 
@@ -46,6 +47,8 @@
 - [Bing 影像搜尋 API](https://azure.microsoft.com/zh-tw/services/cognitive-services/bing-image-search-api/)
 - [Flickr API](https://www.flickr.com/services/api/)
 - [Pixabay API](https://pixabay.com/api/docs/)
+- [PhotoAI](https://photoai.com/)
+- [Nekos Best API](https://docs.nekos.best/)
 
 ### 生活類
 
@@ -65,7 +68,17 @@
 - [氣象局資料開放平台](https://opendata.cwb.gov.tw/index)
 - [Weather API](https://openweathermap.org/api)
 - [Skyscanner Flight Search](https://rapidapi.com/skyscanner/api/skyscanner-flight-search)
+- [Open-Meteo API](https://open-meteo.com/)
 
+### 區塊鏈
+- [Bitquery API](https://docs.bitquery.io/)
+- [EtherScan API](https://etherscan.io/apis)
+- [Chainlink API](https://dev.chain.link/)
+- [Bybit API](https://bybit-exchange.github.io/docs/api-explorer/v5/category)
+- [CoinAPI](https://docs.coinapi.io/)
+- [CoinGecko API](https://www.coingecko.com/api/documentation)
+- [Solana RPC API](https://solana.com/docs/rpc)
+- [Infura API](https://docs.infura.io/api)
 
 ### 儲存庫
 
