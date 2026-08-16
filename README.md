@@ -29,7 +29,6 @@
 
 - [Twitter API](https://developer.twitter.com/en/docs)
 - [Tumblr API](https://www.tumblr.com/docs/en/api/v2)
-- [Twitch API](https://dev.twitch.tv/docs)
 - [Instagram API](https://www.instagram.com/developer/)
 - [Plurk API](https://kantai235.github.io/Plurk-API-Docs/build/#plurk-api-2-0)
 - [Discord API](https://support.discordapp.com/hc/zh-tw/articles/212889058-Discord%E5%AE%98%E6%96%B9API)
@@ -37,6 +36,7 @@
 - [LINE API](https://developers.line.biz/zh-hant/docs/messaging-api/overview/)
 - [Telegram API](https://core.telegram.org/)
 - [Facebbok messenger API](https://developers.facebook.com/docs/messenger-platform/introduction)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### 圖片類
 
